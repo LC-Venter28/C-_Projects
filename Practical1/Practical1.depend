@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599583216 source:d:\luan\universiteit\nwu\jaar 1\cmpg\coding\practical1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<ctgmath>
+	<iomanip>
+

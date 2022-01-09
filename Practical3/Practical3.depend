@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600788067 source:d:\luan\universiteit\nwu\jaar 1\cmpg\coding\practical3\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<stdbool.h>
+	<ctype.h>
+	<algorithm>
+

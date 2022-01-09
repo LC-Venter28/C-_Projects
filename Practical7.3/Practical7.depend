@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603036516 source:d:\luan\universiteit\nwu\jaar 1\cmpg\coding\practical7\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600164020 source:d:\luan\universiteit\nwu\jaar 1\cmpg\coding\practical2\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
